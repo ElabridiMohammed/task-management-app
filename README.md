@@ -2,7 +2,6 @@
 
 A powerful, Trello/Asana-style project management application built with Next.js, TypeScript, and Tailwind CSS. Manage tasks with drag-and-drop Kanban boards, track team productivity, and collaborate in real-time.
 
-![TaskFlow](https://via.placeholder.com/1200x600/3b82f6/ffffff?text=TaskFlow+Project+Management)
 
 ## ✨ Features
 
@@ -94,7 +93,6 @@ pnpm dev
 
 ### Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=your-repo-url)
 
 1. Push to GitHub
 2. Import to Vercel
@@ -189,17 +187,7 @@ task-management-app/
 
 ## 📸 Screenshots
 
-### Kanban Board
-![Kanban](https://via.placeholder.com/800x500/f9fafb/3b82f6?text=Kanban+Board+View)
 
-### Analytics Dashboard
-![Dashboard](https://via.placeholder.com/800x500/f9fafb/22c55e?text=Analytics+Dashboard)
-
-### Activity Feed
-![Activity](https://via.placeholder.com/800x500/f9fafb/8b5cf6?text=Activity+Timeline)
-
-### Task Details
-![Task](https://via.placeholder.com/800x500/f9fafb/f59e0b?text=Task+Details)
 
 ## 🔧 Configuration
 
